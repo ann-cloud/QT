@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images-2.png</file>
+        <file>images.jpeg</file>
+        <file>images.png</file>
+        <file>Unknown</file>
+        <file>Unknown-2</file>
+        <file>Unknown-3</file>
+        <file>Unknown-4</file>
+        <file>Unknown-5</file>
+        <file>Unknown-6</file>
+        <file>Unknown-7</file>
+        <file>Unknown-8</file>
+        <file>Unknown-9</file>
+        <file>images-3.png</file>
+        <file>zoomin.png</file>
+        <file>zoomout.png</file>
+        <file>up</file>
+        <file>down</file>
+    </qresource>
+</RCC>
